@@ -1,0 +1,5 @@
+L,C = input().split()
+L = int(L)
+C = int(C)
+p = (L*C)
+print(p)
