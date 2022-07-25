@@ -1,0 +1,5 @@
+C_correr,N_metros=input().split()
+C_correr=int(C_correr)
+N_metros=int(N_metros)
+Percorrido=(C_correr%N_metros)
+print(Percorrido)

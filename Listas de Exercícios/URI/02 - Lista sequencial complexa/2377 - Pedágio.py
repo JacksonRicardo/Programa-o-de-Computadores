@@ -1,0 +1,8 @@
+l,d=input().split()
+l=int(l)
+d=int(d)
+k,p=input().split()
+k=int(k)
+p=int(p)
+quilometros=(l//d*p)+(l*k)
+print(quilometros)
